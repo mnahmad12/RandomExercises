@@ -23,7 +23,7 @@ push(item): given an item place it on the stack
 pop():      remove top  item from stack  
 
 What makes this exercise interesting? Implementing a stack with a Queue,
-which  is an inherently different data structure (FIFO).
+which  is an inherently a very different data structure (FIFO).
 
 Approach: 
 Use 2 queues (Q1,Q2).Insert item onto Q2. 
